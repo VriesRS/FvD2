@@ -32,10 +32,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Je ambitie: 
   Aan deze technieken/punten wil ik werken:
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - KeyFrames
+  - vormen zonder fotos maken
  
 </details>
 
@@ -53,13 +51,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Dit ging goed/Heb ik geleerd: 
   Korte omschrijving met plaatje(s)
-
+  Ik heb zelf een tennis ball kunnen maken en heb doormiddel van keyframes het logo tot leven kunnen brengen
   <img src="readme-images/dummy-plaatje.svg" width="375px" alt="top">
 
 
   ### Dit was lastig/Is niet gelukt:
-  Korte omschrijving met plaatje(s)
-
+  Ik probeerde zelf nog een golfbal te maken maar deze heb ik niet mooi kunnen maken daardoor is het nu een witte bal geworden
+  
   <img src="readme-images/dummy-plaatje.svg" width="375px" alt="bummer">
 </details>
 
@@ -77,8 +75,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Je ambitie: 
   Aan deze technieken/punten wil ik werken:
-  - punt 1
-  - punt 2
+  - Ik wil aan de slag gaan met dom manipulatie 
+  - Ik wil met class toggle,add en remove gaan werken
   - nog een punt
   - ...
 </details>

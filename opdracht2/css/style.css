@@ -7,71 +7,82 @@ h1 {
     color: red;
 }
 
+h2 {
+  color: red;
+  margin-top: 10vh;
+}
+
+section {
+  background-color: black;
+  height: 100vh;
+  width: 100vw;
+
+}
+
+ul:first-of-type {
+  display: flex;
+  margin-top: 15vh;
+
+}
+
   
-.books {
+ul {
     width: 100%;
     height: 180px;
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
     align-items: center;
     padding: 10px;
     position: relative;
     z-index: 2;
 }
   
-.book {
+li {
     width: 5vw;
-    height: 30vh;
+    height: 15vw;
     background-color: black;
     border: 1px solid white;
     margin: 3px;
     position: relative;
     align-items: center;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
   
-.spine {
+h3 {
     position: absolute;
-    top: 17vh;
-    left: -0.9vw;
-    width: 6vw;
-    transform: rotate(-90deg);
-    white-space: nowrap;
+    rotate:180deg;
+    writing-mode: vertical-lr;
     text-align: center;
     color: white;
-    align-self: center;
-    
+    line-height: 1em;
+    font-size: 1.5vw;
+
+    text-shadow:
+     0 0 .1em #0009,
+     0 0 .2em #0009,
+     0 0 .3em #0009,
+     0 0 .4em #0009;
 }
   
-
-
-
- section:first-of-type {
-    display: flex;
-    margin-top: 15vh;
+li img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
 
 }
 
-/* section:first-of-type p {
-    color: crimson;
-    padding: 1%;
-    background-color: blue;
-    rotate: 90deg;
-    
 
-} */
+ 
 
 
 
-
-/* animation:end {
-    width: 600px;
-} */
-
-.book:nth-of-type(2) {
+/* li:nth-of-type(2) {
   animation: vallen 2s;
   animation-fill-mode: both;
-}
+} */
 
 
 
@@ -99,22 +110,18 @@ h1 {
   animation-fill-mode: both;
 }
 
+.selected h3 {
+  color:transparent;
+  text-shadow: unset;
+}
+  
 .selected img {
   animation: poster 2s ease 2s 1 both;
 } 
 
-section {
-  background-color: black;
-  height: 100vh;
-  width: 100vw;
 
-}
 
-div img {
-  height: 20vh;
-  width: 5vw;
 
-}
 
 
 @keyframes size-up {
@@ -124,6 +131,7 @@ div img {
   2%{
     left: 8%;
     top: 40%;
+    width: 10vw;
     
   } 50% {
     transform: scale(1.8);
@@ -135,29 +143,12 @@ div img {
   100% { 
     position: absolute;
     z-index: 10;
-    transform: scale(3.5);
-    transform: rotate(90deg);
+    transform: rotate(360deg) scale(2.5);
     
     top: 50%;
     left: 50%;
+    width: 10vw;
   }
 }
 
 
-@keyframes poster {
-  0% {
-  transform: rotate(0deg);
-} 50% {
-  transform: rotate(-45deg);
-} 100% {
-  
-  position: absolute;
-  right: 120%;
-  top: -8%;
-
-  height: 35vh;
-  width: 15vw;
-
-  transform: rotate(-90deg);
-}
-}

@@ -71,7 +71,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
   ### Je ontwerp:
-  <img src="readme-images/dummy-plaatje.svg" width="375px" alt="ontwerp opdracht 2">
+  <img src="readme-images/storyboard2.jpg" width="375px" alt="ontwerp opdracht 2">
 
 
   ### Je ambitie: 

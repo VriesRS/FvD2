@@ -154,7 +154,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken bij afronden opdracht (voor week 8)</summary>
 
   ### Je uitkomst - karakteristiek screenshot(s):
-  <img src="readme-images/dummy-plaatje.svg" width="375px" alt="uitkomst opdracht 2">
+  <img src="readme-images/opdracht2.png" width="375px" alt="uitkomst opdracht 2">
+  <img src="readme-images/opdracht2groot.png" width="375px" alt="uitkomst opdracht 2">
 
 
   ### Dit ging goed/Heb ik geleerd: 
@@ -163,7 +164,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Ik heb met animationend 2 animaties na elkaar laten lopen en zo een overgang gemaakt
   ik heb de dark mode en light mode werkend gekregen.
 
-  <img src="readme-images/dummy-plaatje.svg" width="375px" alt="top">
+  <img src="readme-images/opdracht2groot.png" width="375px" alt="uitkomst opdracht 2">
 
 
   ### Dit was lastig/Is niet gelukt:

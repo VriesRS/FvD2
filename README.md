@@ -46,20 +46,20 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
   ### Je uitkomst - karakteristiek screenshot(s):
-  <img src="readme-images/dummy-plaatje.svg" width="375px" alt="uitomst opdracht 1">
-  <img src="readme-images/dummy-plaatje.svg" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/wilson.png" width="375px" alt="uitomst opdracht 1">
+  
 
 
   ### Dit ging goed/Heb ik geleerd: 
   Korte omschrijving met plaatje(s)
   Ik heb zelf een tennis ball kunnen maken en heb doormiddel van keyframes het logo tot leven kunnen brengen
-  <img src="readme-images/dummy-plaatje.svg" width="375px" alt="top">
+  <img src="readme-images/tennisbal.png" width="375px" alt="top">
 
 
   ### Dit was lastig/Is niet gelukt:
   Ik probeerde zelf nog een golfbal te maken maar deze heb ik niet mooi kunnen maken daardoor is het nu een witte bal geworden
   
-  <img src="readme-images/dummy-plaatje.svg" width="375px" alt="bummer">
+  <img src="readme-images/golfbal.png" width="375px" alt="bummer">
 </details>
 
 
@@ -71,7 +71,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
   ### Je ontwerp:
-  <img src="readme-images/storyboard2.jpg" width="375px" alt="ontwerp opdracht 2">
+  <img src="readme-images/storyboard2.png" width="375px" alt="ontwerp opdracht 2">
 
 
   ### Je ambitie: 
@@ -175,5 +175,5 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   
   
 
-  <img src="readme-images/dummy-plaatje.svg" width="375px" alt="bummer">
+  <img src="readme-images/klikbaar.png" width="375px" alt="bummer">
 </details>
